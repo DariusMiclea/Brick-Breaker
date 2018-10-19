@@ -23,3 +23,5 @@ http://prntscr.com/l83455
 https://prnt.sc/l834io
 
 The C# scripts can be found inside the assets directory.
+
+In the future I am planing on making multiple levels, special bricks which will require more hits to be destroyed, special power ups which will spawn when destroying certain bricks, find better sprites, add some sound effects and polish the game so it would look and run more smoothly.
