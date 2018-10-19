@@ -1,6 +1,7 @@
 A brick breaker game I am currently working on.
 
 The game is in it's early stages with only some basic features.
+
 What the game can currently do:
                     
                    -the player can move the paddle left or right by pressing the left and right arrow keys or the a and d keys
